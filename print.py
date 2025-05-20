@@ -9,7 +9,7 @@ import logging
 from collections import defaultdict
 
 # Настройки
-TOKEN = "6388163209:AAHT9wHQBdTXaFieGrWMc9RqmSX-MoilpIM"
+TOKEN = "7672838723:AAEOWL1XxhSSV3VCBn7owLmBy4ky5mgMXYc"
 CBR_API_URL = "https://www.cbr-xml-daily.ru/daily_json.js"
 CURRENCIES = {
     "USD": {"name": "Доллар США", "symbol": "💵", "flag": "🇺🇸"},
